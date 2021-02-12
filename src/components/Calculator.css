@@ -1,0 +1,32 @@
+.calculator {
+  display: inline-block;
+  color: red;
+  background-color: aqua;
+}
+
+input {
+  border: 0px solid;
+  border-radius: 0;
+  height: 50px;
+  margin-left: 80px;
+  display: block;
+  font-size: 25px;
+
+  /* background-color: black;
+  color:; */
+}
+
+button {
+  font-size: 25px;
+  padding: 30px;
+  grid: auto auto auto;
+  border-radius: 50px;
+  margin: 10px;
+  background-color: black;
+  color: grey;
+  border: 1px solid;
+}
+
+.first {
+  margin-left: 200px;
+}
